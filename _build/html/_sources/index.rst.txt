@@ -12,9 +12,9 @@
 
 这是我的主页，再就业
 
-06_《绿野仙踪》不是童话故事.md
+06_《绿野仙踪》不是童话故事
 
-28_Why is macroeconomics so hard to teach?.md
+28_Why is macroeconomics so hard to teach?
 
 Indices and tables
 ==================
