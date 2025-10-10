@@ -4,7 +4,7 @@
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   :caption: 目录:
 
    曼昆原理宏观各章总结 23-26章.md
    
@@ -26,3 +26,10 @@
 
    01_开始的几句话
 
+
+Indices and Tables
+==================
+
+- :ref:`genindex`  # Sphinx 自动生成的“总索引”（按字母排序的术语/函数索引）
+- :ref:`modindex`  # Sphinx 动生成的“模块索引”（适用于代码项目，按模块排序）
+- :ref:`search`    # Sphinx 自动生成的“搜索框”
