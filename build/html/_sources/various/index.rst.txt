@@ -4,7 +4,7 @@
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   :caption: 目录
 
    
    empirical vs. positive
@@ -18,3 +18,14 @@
    笔记21_贝多芬第四钢协和第六钢协
 
    66_钢琴古琴与快乐教育
+
+
+
+
+ 
+Indices and Tables
+==================
+
+- :ref:`genindex`  
+- :ref:`modindex`  
+- :ref:`search`      
