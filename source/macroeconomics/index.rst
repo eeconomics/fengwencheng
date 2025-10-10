@@ -4,7 +4,7 @@
 
 .. toctree::
    :maxdepth: 2
-   :caption: 目录:
+   :caption: 目录
 
    曼昆原理宏观各章总结 23-26章.md
    
@@ -28,9 +28,3 @@
 
    
 
-Indices and Tables
-==================
-
-- :ref:`genindex`  
-- :ref:`modindex`  
-- :ref:`search`    
