@@ -22,7 +22,7 @@
 
    02_语义陷阱：经济学家的话术
 
-   int_macr.md
+   int_macro.md
  
    28_Why is macroeconomics so hard to teach?
 
