@@ -10,18 +10,18 @@
 	
 今天的第1讲先分享本书第二章中动物们革命成功后（书中的情节是赶走了人类农场主Jones先生之后），动物们给自己制定了行为准则，列出了“七诫”：
 	
-1.Whatever goes upon two legs is an enemy.
+1. Whatever goes upon two legs is an enemy.
 	
-2.Whatever goes upon four legs, or has wings, is a friend.
+2. Whatever goes upon four legs, or has wings, is a friend.
 	
-3.No animal shall wear clothes.
+3. No animal shall wear clothes.
 	
-4.No animal shall sleep in a bed.
+4. No animal shall sleep in a bed.
 	
-5.No animal shall drink alcohol.
+5. No animal shall drink alcohol.
 	
-6.No animal shall kill any other animal.
+6. No animal shall kill any other animal.
 	
-7.All animals are equal.
+7. All animals are equal.
 	
 这七条诫律很有意思，农场自治的后期，随着故事的进展，这些条目都一点点发生了微妙的变化。比方说第5条“凡动物皆不可饮酒”慢慢变成了“凡动物皆不可饮酒过量”。大家不妨猜一猜第7条，“所有动物生来平等”，会怎么被“修正”呢？。我们的生活中不也是常常被宣传“人人生而平等”吗？你能感觉到这种平等吗？#极权主义
