@@ -7,10 +7,6 @@
    :caption: 目录
 
    
-   dismal_science.md
-   
-   empirical vs. positive
-   
    女儿毕业礼物
    
    04_我为什么建议同学们读英文的教材
