@@ -1,0 +1,43 @@
+
+编者注：本文是编译自Skousen的Vienna & Chicago_Friends or Foes一书的第9章，虽然是编译，不是纯粹翻译，但我没有版权，版权归原作者。
+
+## 导言
+
+作为经济学殿堂中最负盛名的隐喻，亚当・斯密笔下的 “看不见的手” 这一概念，早已成为跨越学派的共识性符号，获得了不同政治谱系的经济学家们的一致赞誉。米尔顿・弗里德曼曾将其赞为理解市场合作性、自调节性力量的 “一项高度复杂且精妙的洞见”。这只市场上 “看不见的手” 理论，后来被正式表述为**福利经济学第一基本定理**。
+
+然而，令人惊讶的是，这只被后世反复阐释的 “手”，却从未在斯密的著作中被正式定义过，更没有系统化地将其作为一个图腾式的术语奉为圭臬。斯密本人在其全部著作中，仅有三次不经意地提及这一表述。由于提及次数极少，19 世纪的经济学家与政治评论者极少直接提及 “看不见的手” 这一概念；1876 年《国富论》百年纪念的相关活动中，也从未出现这一表述。在 1904 年埃德温・坎南（Edwin Cannan）编辑的著名版本中，甚至根本就没有在索引中为 “看不见的手” 单独设立条目。直到 20 世纪，它才成为广为人知的流行符号。那么，斯密是如何在自己的著作中不经意地埋下了整个现代经济学秩序的种子呢？我们不妨循着这三次文本的踪迹，回到它最初诞生的语境之中，以还原它在斯密思想体系中的原初面貌。
+
+## 一
+
+斯密对 “看不见的手” 的首次提及，见于《天文学史》(History of Astronomy)。这本书斯密青年时期的作品，但它构成了斯密的思想基础，贯穿他的整个学术生涯。他写这本书的真正目的，是要构筑一套关于科学研究的解释框架，指明科学研究的推动因素，概括科学知识体系的构建进程。他在书中讨论了蒙昧部落的迷信行为，说到这些部落常常会将一些自然界的异象归因于看不见的神祇之手。
+
+> "Among savages, as well as in the early ages of Heathen antiquity, it is the irregular events of nature only that are ascribed to the agency and power of their gods. Fire burns, and water refreshes; heavy bodies descend and lighter substances fly upwards, by the necessity of their own nature; nor was the invisible hand of Jupiter ever apprehended to be employed in those matters" (Smith 1982:49).
+
+> “在蛮荒的部落中，以及古代异教的早期，人们只会把自然界中的反常事件归因于神祇的作用与力量。火会燃烧，水会滋润；重物下坠，轻物上升，这些都被认为是出于其自身的自然本性；人们从不认为朱庇特那只‘看不见的手’会介入这些寻常之事。”（斯密，1982：49）
+
+
+## 二
+
+对 “看不见的手” 之力量的完整阐述，出现在《道德情操论》（_The Theory of Moral Sentiments_）中。在本书的第四篇第一章(《论效用对赞许情感的影响》(Of the Effect of Utility upon the Sentiment of Approbation))，斯密描述了一些性情乖戾的富有的地主，他们在 “天生的自私与贪婪” 中追逐 “虚妄而永不满足的欲望”，却雇用数千名贫困工人生产奢侈品，从而是如何在 “看不见的手” 引导下，将财富分配给为其工作的穷人，无意中增进了社会利益。
+
+> "The rest he (the proprietor) is obliged to distribute...among those...which are employed in the economy of greatness; all of whom thus derive from his luxury and caprice, that share of the necessaries of life, which they would in vain have expected from his humanity or his justice....they divide with the poor the produce of all their improvements. They are led by an invisible hand to,...without intending it, without knowing it, advance the interests of the society" (Smith 1982 [1759] : 183-85).
+> 
+> “地主的剩余部分 不得不分配给那些…… 为他的宏伟产业劳作的人；所有人都从他的奢侈与任性中，获得生活必需品的份额 —— 这份份额，他们本无望从他的仁慈或正义中得到…… 他们与穷人分享所有改良的成果。他们被一只‘看不见的手’引导，…… 无意之中、亦不自知地增进了社会的利益。”（斯密，1982 [1759]：183-85）
+
+## 三
+
+第三次提及出现在《国富论》（_An Inquiry into the Nature and Causes of the Wealth of Nations_）的国际贸易章节中（第四卷第二章）。斯密在此反对进口限制，也反对支持重商主义观点的商人和制造商，是全书唯一一次明确提及 “看不见的手” 的文本。他写道：
+
+>"As every individual, therefore, endeavours as much as he can both to employ his capital in the support of domestick industry, and so to direct that industry that its produce may be of the greatest value; every individual necessarily labours to render the annual revenue of the society as great as he can. He generally, indeed, neither intends to promote the publick interest, nor knows how much he is promoting it. ...and by directing that industry in such a manner as its produce may be of the greatest value, he intends only his own gain, and he is in this, as in many other cases, led by an invisible hand to promote an end which was no part of his intention. Nor is it always the worse for the society that it was no part of it. By pursuing his own interest he frequently promotes that of the society more effectually than when he really intends to promote it. I have never known much good done by those who affected to trade for the publick good" (Smith 1981:[1 776] 456).
+>
+“因此，每个人都尽其所能，既将资本用于支持国内产业，又致力于引导该产业，使其产出价值最大化；因此，每个人都必然努力使社会的年收入尽可能扩大。通常，他既无意于促进公共利益，也不知道自己在多大程度上促进了公共利益…… 通过引导产业以使其产出价值最大化，他只追求自身的利益，且在此处，如同在许多其他情形中一样，他被一只‘看不见的手’引导，去促进一个并非其本意的目标。对社会而言，这并非坏事。通过追求自身利益，他常常比刻意促进公共利益时更有效地增进了社会利益。我从未见过那些自称一心为公的人，做出过多少真正的好事。”（斯密，1981 [1776]：456）
+
+
+
+## 参考文献
+
+Smith, Adam. 1981 [1776]. An Inquiry into the Nature and Causes of the Wealth ofNations. Indianapolis, Indiana: Liberty Fund.
+
+Smith, Adam. 1982 [1759]. The Theory ofMoral Sentiments, edited by D. D. Raphael and A. L. Macfie. Indianapolis, Indiana: Liberty Fund.
+
+Smith, Adam. 1982. Essays on Philosophical Subjects, ed. W. P. D. Wightman. Indianapolis, Indiana: Liberty Fund.
