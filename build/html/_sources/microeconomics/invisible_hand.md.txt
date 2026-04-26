@@ -30,12 +30,12 @@
 第三次提及出现在《国富论》（_An Inquiry into the Nature and Causes of the Wealth of Nations_）的国际贸易章节中（第四卷第二章）。斯密在此反对进口限制，也反对支持重商主义观点的商人和制造商，是全书唯一一次明确提及 “看不见的手” 的文本。他写道：
 
 >"As every individual, therefore, endeavours as much as he can both to employ his capital in the support of domestick industry, and so to direct that industry that its produce may be of the greatest value; every individual necessarily labours to render the annual revenue of the society as great as he can. He generally, indeed, neither intends to promote the publick interest, nor knows how much he is promoting it. ...and by directing that industry in such a manner as its produce may be of the greatest value, he intends only his own gain, and he is in this, as in many other cases, led by an invisible hand to promote an end which was no part of his intention. Nor is it always the worse for the society that it was no part of it. By pursuing his own interest he frequently promotes that of the society more effectually than when he really intends to promote it. I have never known much good done by those who affected to trade for the publick good" (Smith 1981:[1 776] 456).
->
-“因此，每个人都尽其所能，既将资本用于支持国内产业，又致力于引导该产业，使其产出价值最大化；因此，每个人都必然努力使社会的年收入尽可能扩大。通常，他既无意于促进公共利益，也不知道自己在多大程度上促进了公共利益…… 通过引导产业以使其产出价值最大化，他只追求自身的利益，且在此处，如同在许多其他情形中一样，他被一只‘看不见的手’引导，去促进一个并非其本意的目标。对社会而言，这并非坏事。通过追求自身利益，他常常比刻意促进公共利益时更有效地增进了社会利益。我从未见过那些自称一心为公的人，做出过多少真正的好事。”（斯密，1981 [1776]：456）
+
+>“因此，每个人都尽其所能，既将资本用于支持国内产业，又致力于引导该产业，使其产出价值最大化；因此，每个人都必然努力使社会的年收入尽可能扩大。通常，他既无意于促进公共利益，也不知道自己在多大程度上促进了公共利益…… 通过引导产业以使其产出价值最大化，他只追求自身的利益，且在此处，如同在许多其他情形中一样，他被一只‘看不见的手’引导，去促进一个并非其本意的目标。对社会而言，这并非坏事。通过追求自身利益，他常常比刻意促进公共利益时更有效地增进了社会利益。我从未见过那些自称一心为公的人，做出过多少真正的好事。”（斯密，1981 [1776]：456）
 
 
 
-## 参考文献
+参考文献
 
 Smith, Adam. 1981 [1776]. An Inquiry into the Nature and Causes of the Wealth ofNations. Indianapolis, Indiana: Liberty Fund.
 
