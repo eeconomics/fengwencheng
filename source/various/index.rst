@@ -6,6 +6,8 @@
    :maxdepth: 2
    :caption: 目录
 
+   校园里的通识讲座.md
+   
    animal_farm_02.md
 
    animal_farm_01.md
