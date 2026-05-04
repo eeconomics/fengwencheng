@@ -6,6 +6,7 @@
    :maxdepth: 2
    :caption: 目录
 
+   invisible_hand_02.md
 
    invisible_hand.md
    
