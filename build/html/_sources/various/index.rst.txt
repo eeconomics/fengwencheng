@@ -8,6 +8,8 @@
 
    校园里的通识讲座.md
 
+   animal_farm_08.md
+
    animal_farm_07.md
 
    animal_farm_06.md
